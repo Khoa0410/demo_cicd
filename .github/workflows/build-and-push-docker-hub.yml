@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: daemicu/demo_cicd:staging
+          tags: daemicu/demo_cicd:staging2
 
 
   pull-and-up:
